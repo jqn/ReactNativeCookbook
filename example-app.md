@@ -240,7 +240,13 @@ export default class CameraScreen extends Component {
     return (
       <SafeAreaView style={styles.container}>
         <Camera>
-          <BarcodeMask />
+          <BarcodeMask
+            width={320}
+            height={320}
+            maskOpacity={0.8}
+            backgroundColor="transparent"
+            showAnimatedLine={false}
+          />
         </Camera>
       </SafeAreaView>
     );
@@ -252,6 +258,19 @@ const styles = StyleSheet.create({
     flex: 1,
   },
 });
+```
+
+### Add shutter, flash and zoom controls
+
+Create a new component  named `CameraControls.js`
+
+```bash
+$ touch src/components/Camera/CameraControls.js
+```
+
+Edit CameraControls.js and it should look something similar to this
+
+```jsx
 
 ```
 
@@ -477,7 +496,7 @@ NotAuthView.propTypes = {
 export default NotAuthView;
 ```
 
-![NotAuthView.js](../.gitbook/assets/not_auth.png)
+![NotAuthView.js](.gitbook/assets/not_auth.png)
 
 Similarly here is the pending auth view.
 
@@ -554,5 +573,5 @@ PendingAuthView.propTypes = {
 export default PendingAuthView;
 ```
 
-![PendingAuthView.js](../.gitbook/assets/pending_auth.png)
+![PendingAuthView.js](.gitbook/assets/pending_auth.png)
 
