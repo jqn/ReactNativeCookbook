@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting-started/README.md)
+  * [Best Practices](getting-started/best-practices.md)
   * [Local environment](getting-started/local-environment.md)
   * [VS Code](getting-started/vs-code.md)
   * [React Native Fundamentals](getting-started/react_native_fundamentals.md)
