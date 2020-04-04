@@ -44,5 +44,3 @@ You will also need to install the Xcode Command Line Tools. Open Xcode, then cho
 
 You should see your new app running in the iOS Simulator shortly.
 
-![](../.gitbook/assets/screen-shot-2020-04-04-at-10.33.38-am.png)
-
