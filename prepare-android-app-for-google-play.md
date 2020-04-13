@@ -22,3 +22,10 @@ Replace the icons in these folder with your own icons.
 
 [https://medium.com/@101/splash-screen-in-android-769d3b0bafd0\#.cep53047v](https://medium.com/@101/splash-screen-in-android-769d3b0bafd0#.cep53047v)
 
+
+
+```text
+$ cd android
+$ ./gradlew assembleRelease
+```
+

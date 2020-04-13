@@ -93,19 +93,5 @@ Keyboard events
 
 [https://code.tutsplus.com/series/learn-ios-sdk-development-from-scratch--mobile-14536](https://code.tutsplus.com/series/learn-ios-sdk-development-from-scratch--mobile-14536)
 
-{% embed url="http://www.ios-blog.co.uk/tutorials/objective-c/beginners-ios-development-objective-c/" %}
-
-
-
-{% embed url="https://github.com/react-native-studio/react-native-android-barcodescanner" %}
-
-{% embed url="https://github.com/tuantvk/react-native-select-awesome" %}
-
-{% embed url="https://imask.js.org/guide.html\#masked-function" %}
-
-{% embed url="https://breakingscope.com/2017/09/19/mobx-react-native-make-counter/" %}
-
-{% embed url="https://github.com/MustansirZia/react-native-fused-location" %}
-
-
+[http://www.ios-blog.co.uk/tutorials/objective-c/beginners-ios-development-objective-c/](http://www.ios-blog.co.uk/tutorials/objective-c/beginners-ios-development-objective-c/)
 
