@@ -27,5 +27,6 @@ Replace the icons in these folder with your own icons.
 ```text
 $ cd android
 $ ./gradlew assembleRelease
+$ react-native run-android --variant=release
 ```
 
