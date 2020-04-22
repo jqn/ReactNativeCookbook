@@ -12,6 +12,7 @@
 * [Camera App](camera-app.md)
 * [Background Uploads](untitled-1.md)
 * [FlatList](untitled.md)
+* [Image Uploads to S3](image-uploads-to-s3.md)
 * [Beta Testing](beta_testing/README.md)
   * [Configure your local environment - android](beta_testing/configure-your-local-environment-android.md)
   * [Renaming your Project](beta_testing/renaming_your_react_native_project.md)
