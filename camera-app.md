@@ -2,7 +2,7 @@
 description: Building a Camera App
 ---
 
-# Example App
+# Camera App
 
 ### Create a new application
 
