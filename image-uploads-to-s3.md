@@ -16,6 +16,12 @@
 
 #### [https://dev.to/provish/upload-image-directly-to-s3-bucket-from-client-ffg](https://dev.to/provish/upload-image-directly-to-s3-bucket-from-client-ffg)
 
+#### [https://blog.webiny.com/upload-files-to-aws-s3-using-pre-signed-post-data-and-a-lambda-function-7a9fb06d56c1](https://blog.webiny.com/upload-files-to-aws-s3-using-pre-signed-post-data-and-a-lambda-function-7a9fb06d56c1)
+
+#### [https://medium.com/@knowbody/react-native-image-upload-to-s3-bucket-5220941bfea2](https://medium.com/@knowbody/react-native-image-upload-to-s3-bucket-5220941bfea2)
+
+#### [https://gist.github.com/knowbody/84ae45217f6d7a60c2abbd9b702596f0](https://gist.github.com/knowbody/84ae45217f6d7a60c2abbd9b702596f0)
+
 #### AWS S3 
 
 ```markup
