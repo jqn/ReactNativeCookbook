@@ -477,5 +477,40 @@ export default UploadConnect;
 
 {% embed url="https://gist.github.com/rxgx/7e1b24de5936ff1b2b815a3d9cc3897a" %}
 
+```text
+import {useState, useEffect} from 'react';
+import axios from 'axios';
 
+const ACCESS_KEY = 'QLxPz_PBR33NLxX2EkJQ8L_nelZcYEXGZCrFtNQMSTs';
+
+const useAsyncHook = query => {
+  const [result, setResult] = useState([]);
+  const [loading, setLoading] = useState('false');
+
+  useEffect(() => {
+    async function fetchCarsList() {
+      try {
+        setLoading('true');
+        const response = await axios.get(
+          `https://api.unsplash.com/search/photos/?client_id=${ACCESS_KEY}&query=${query}`,
+        );
+        const json = await response.data.results;
+        console.log('fetching ****** ', json);
+        setResult(json);
+      } catch (error) {
+        console.log('fetch error', error);
+        setLoading('null');
+      }
+    }
+
+    if (query !== '') {
+      fetchCarsList();
+    }
+  }, [query]);
+
+  return [result, loading];
+};
+
+export default useAsyncHook;
+```
 
