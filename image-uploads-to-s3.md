@@ -4,6 +4,18 @@
 
 #### [https://dev.to/provish/upload-image-directly-to-s3-bucket-from-client-ffg](https://dev.to/provish/upload-image-directly-to-s3-bucket-from-client-ffg)
 
+#### [https://medium.com/@kevinwu/client-side-file-upload-to-s3-using-axios-c9363ec7b530](https://medium.com/@kevinwu/client-side-file-upload-to-s3-using-axios-c9363ec7b530)
+
+#### [https://ademcan.net/blog/2017/11/24/uploaddownload-images-tofrom-aws-s3-in-react-native-a-step-by-step-guide/](https://ademcan.net/blog/2017/11/24/uploaddownload-images-tofrom-aws-s3-in-react-native-a-step-by-step-guide/)
+
+#### [https://www.youtube.com/watch?v=0TTa5Ulmgds](https://www.youtube.com/watch?v=0TTa5Ulmgds)
+
+#### [https://www.youtube.com/watch?v=Ti8QNiRRzOA](https://www.youtube.com/watch?v=Ti8QNiRRzOA)
+
+#### [https://www.youtube.com/watch?v=XeiOnkEI7XI](https://www.youtube.com/watch?v=XeiOnkEI7XI)
+
+#### [https://dev.to/provish/upload-image-directly-to-s3-bucket-from-client-ffg](https://dev.to/provish/upload-image-directly-to-s3-bucket-from-client-ffg)
+
 #### AWS S3 
 
 ```markup
@@ -477,7 +489,7 @@ export default UploadConnect;
 
 {% embed url="https://gist.github.com/rxgx/7e1b24de5936ff1b2b815a3d9cc3897a" %}
 
-```text
+```jsx
 import {useState, useEffect} from 'react';
 import axios from 'axios';
 
