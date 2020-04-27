@@ -9,6 +9,7 @@
   * [Tips and Tricks](getting-started/tips_and_tricks.md)
   * [Add iOS App Icons and Launch Images](getting-started/add_ios_app_icons_and_launch_images.md)
   * [Running On Android Device](getting-started/running_on_android_device.md)
+* [React Navigation](react-navigation.md)
 * [Camera App](camera-app.md)
 * [Background Uploads](untitled-1.md)
 * [FlatList](untitled.md)
